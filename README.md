@@ -41,7 +41,5 @@ since  no  player  is  guaranteed  that  they w ill  be  able  to  collect  all 
 table.
 
 
-
-
-Next You should download the repository to your local computer and open up the .py folder on your favorite IDE. THe read through all the 
-function explanations. After that, go ahead and test out the game of garbage!
+### After You understand the game
+You should download the repository to your local computer and open up the .py folder on your favorite IDE. Then you should read through all the function explanations to getter a better understanding for the way it will run. After that, go ahead and test out the game of garbage!
