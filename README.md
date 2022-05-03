@@ -1,8 +1,8 @@
-# Garbage
+# The Game of Garbage
 
-## Description of this python code and what it does
+### Description of this python code and what it does
 
-### This python file will run a variation of Garbage, a simple children’s card game also sometimes called trash. The first step is to learn how to play Garbage, which is most easily accomplished by watching this tutorial video: https://www.youtube.com/watch?v=tKWvR-43Ukc
+This python file will run a variation of Garbage, a simple children’s card game also sometimes called trash. The first step is to learn how to play Garbage, which is most easily accomplished by watching this tutorial video: https://www.youtube.com/watch?v=tKWvR-43Ukc
 
 As the video describes, game play is quite simple. Each player is dealt 10 cards from a standard 52 card
 deck,  which  are  placed  face  down  in  front  of  the  player  in  two r ows,  conceptually  labeled  1  through  10
